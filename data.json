@@ -1,0 +1,18 @@
+[
+    {
+        "type": "income",
+        "amount": 2000.0,
+        "category": "salary",
+        "date": "26-9-1",
+        "description": "montly salary",
+        "payment_method": "bank"
+    },
+    {
+        "type": "expense",
+        "amount": 3000.0,
+        "category": "food",
+        "date": "26-9-24",
+        "description": "lunch",
+        "payment_method": "upi"
+    }
+]
